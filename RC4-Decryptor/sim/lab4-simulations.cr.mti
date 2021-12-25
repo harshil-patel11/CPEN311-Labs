@@ -1,0 +1,57 @@
+C:/Repos/CPEN311/lab4/ritam_singal_harshil_patel_46530994_Lab_4/rtl/task2b_tb.sv {1 {vlog -work work -sv -stats=none C:/Repos/CPEN311/lab4/ritam_singal_harshil_patel_46530994_Lab_4/rtl/task2b_tb.sv
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module task2b_tb
+
+Top level modules:
+	task2b_tb
+
+} {} {}} C:/Repos/CPEN311/lab4/ritam_singal_harshil_patel_46530994_Lab_4/rtl/task2a.sv {1 {vlog -work work -sv -stats=none C:/Repos/CPEN311/lab4/ritam_singal_harshil_patel_46530994_Lab_4/rtl/task2a.sv
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module task2a
+
+Top level modules:
+	task2a
+
+} {} {}} C:/Repos/CPEN311/lab4/ritam_singal_harshil_patel_46530994_Lab_4/rtl/init_mem.sv {1 {vlog -work work -sv -stats=none C:/Repos/CPEN311/lab4/ritam_singal_harshil_patel_46530994_Lab_4/rtl/init_mem.sv
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module init_mem
+
+Top level modules:
+	init_mem
+
+} {} {}} C:/Repos/CPEN311/lab4/ritam_singal_harshil_patel_46530994_Lab_4/rtl/task3.sv {1 {vlog -work work -sv -stats=none C:/Repos/CPEN311/lab4/ritam_singal_harshil_patel_46530994_Lab_4/rtl/task3.sv
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module task3
+
+Top level modules:
+	task3
+
+} {} {}} C:/Repos/CPEN311/lab4/ritam_singal_harshil_patel_46530994_Lab_4/rtl/task3_tb.sv {1 {vlog -work work -sv -stats=none C:/Repos/CPEN311/lab4/ritam_singal_harshil_patel_46530994_Lab_4/rtl/task3_tb.sv
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module task3_tb
+
+Top level modules:
+	task3_tb
+
+} {} {}} C:/Repos/CPEN311/lab4/ritam_singal_harshil_patel_46530994_Lab_4/rtl/task2a_tb.sv {1 {vlog -work work -sv -stats=none C:/Repos/CPEN311/lab4/ritam_singal_harshil_patel_46530994_Lab_4/rtl/task2a_tb.sv
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module task2a_tb
+
+Top level modules:
+	task2a_tb
+
+} {} {}} C:/Repos/CPEN311/lab4/ritam_singal_harshil_patel_46530994_Lab_4/rtl/init_mem_tb.sv {1 {vlog -work work -sv -stats=none C:/Repos/CPEN311/lab4/ritam_singal_harshil_patel_46530994_Lab_4/rtl/init_mem_tb.sv
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module init_mem_tb
+
+Top level modules:
+	init_mem_tb
+
+} {} {}} C:/Repos/CPEN311/lab4/ritam_singal_harshil_patel_46530994_Lab_4/rtl/task2b.sv {1 {vlog -work work -sv -stats=none C:/Repos/CPEN311/lab4/ritam_singal_harshil_patel_46530994_Lab_4/rtl/task2b.sv
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module task2b
+
+Top level modules:
+	task2b
+
+} {} {}}

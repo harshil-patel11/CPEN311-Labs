@@ -1,0 +1,170 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_1/lab1_template_de1soc/sim
+vaddress_calc
+Z0 DXx6 sv_std 3 std 0 22 <EOTafDcUY:cQeO^ICn]m3
+Z1 !s110 1634350321
+!i10b 1
+!s100 82gU:1Q3IJ56ZEJ[?``cQ2
+I_]Q_`<cWY_9^3m16hfn]@2
+Z2 V`JN@9S9cnhjKRR_L]QIcM3
+!s105 address_calc_sv_unit
+S1
+Z3 dC:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_2/sim
+w1634345984
+8C:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_2/rtl/template_de1soc/address_calc.sv
+FC:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_2/rtl/template_de1soc/address_calc.sv
+L0 27
+Z4 OV;L;10.3c;59
+r1
+!s85 0
+31
+!s108 1634350321.088000
+!s107 C:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_2/rtl/template_de1soc/address_calc.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_2/rtl/template_de1soc/address_calc.sv|
+!i113 1
+Z5 o-work work -sv
+vaddress_calc_tb
+R0
+R1
+!i10b 1
+!s100 AH@ohC_99`844X8oe^_GG2
+IM7jUHTdGQFN;6H`Cam^H00
+R2
+!s105 address_calc_tb_sv_unit
+S1
+R3
+w1634350238
+8C:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_2/rtl/template_de1soc/address_calc_tb.sv
+FC:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_2/rtl/template_de1soc/address_calc_tb.sv
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1634350321.010000
+!s107 C:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_2/rtl/template_de1soc/address_calc_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_2/rtl/template_de1soc/address_calc_tb.sv|
+!i113 1
+R5
+vflash_control
+R0
+Z6 !s110 1634350320
+!i10b 1
+!s100 @BXU]LV@A:E7UjO9kY0Ho0
+IOa7A^l8AbCmR[c4Y9LZ@Y2
+R2
+!s105 flash_control_sv_unit
+S1
+R3
+w1634345466
+8C:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_2/rtl/template_de1soc/flash_control.sv
+FC:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_2/rtl/template_de1soc/flash_control.sv
+L0 21
+R4
+r1
+!s85 0
+31
+!s108 1634350320.839000
+!s107 C:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_2/rtl/template_de1soc/flash_control.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_2/rtl/template_de1soc/flash_control.sv|
+!i113 1
+R5
+vflash_control_tb
+R0
+R6
+!i10b 1
+!s100 jSBd1JI53]>1B=I:;Tem?1
+I@za`D8RD86?W]`GObXnN00
+R2
+!s105 flash_control_tb_sv_unit
+S1
+R3
+w1634349151
+8C:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_2/rtl/template_de1soc/flash_control_tb.sv
+FC:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_2/rtl/template_de1soc/flash_control_tb.sv
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1634350320.920000
+!s107 C:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_2/rtl/template_de1soc/flash_control_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_2/rtl/template_de1soc/flash_control_tb.sv|
+!i113 1
+R5
+vkeyboard_audio_controller
+R0
+DXx4 work 33 keyboard_audio_controller_sv_unit 0 22 0dG?jaNW7dgAR^V9U5G[z0
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 9=]IEZ`2kJzlFIKePXHeK1
+I?ikGV?IDcmC?[`Vjh?adM2
+!s105 keyboard_audio_controller_sv_unit
+S1
+R3
+Z7 w1634347311
+Z8 8C:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_2/rtl/template_de1soc/keyboard_audio_controller.sv
+Z9 FC:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_2/rtl/template_de1soc/keyboard_audio_controller.sv
+L0 22
+R4
+Z10 !s108 1634350320.672000
+Z11 !s107 C:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_2/rtl/template_de1soc/keyboard_audio_controller.sv|
+Z12 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_2/rtl/template_de1soc/keyboard_audio_controller.sv|
+!i113 1
+R5
+Xkeyboard_audio_controller_sv_unit
+R0
+V0dG?jaNW7dgAR^V9U5G[z0
+r1
+!s85 0
+31
+!i10b 1
+!s100 KEb^6^nBbVhc7:o^08R]20
+I0dG?jaNW7dgAR^V9U5G[z0
+!i103 1
+S1
+R3
+R7
+R8
+R9
+L0 13
+R4
+R10
+R11
+R12
+!i113 1
+R5
+vkeyboard_audio_controller_tb
+R0
+R6
+!i10b 1
+!s100 j7b8ncPJBc_7X42VLPANa1
+IJzNZT1EG4HYb]_9c5JM_g1
+R2
+!s105 keyboard_audio_controller_tb_sv_unit
+S1
+R3
+w1634349015
+8C:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_2/rtl/template_de1soc/keyboard_audio_controller_tb.sv
+FC:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_2/rtl/template_de1soc/keyboard_audio_controller_tb.sv
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1634350320.754000
+!s107 C:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_2/rtl/template_de1soc/keyboard_audio_controller_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_2/rtl/template_de1soc/keyboard_audio_controller_tb.sv|
+!i113 1
+R5

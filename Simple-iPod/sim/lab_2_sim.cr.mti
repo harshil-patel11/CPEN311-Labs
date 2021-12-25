@@ -1,0 +1,37 @@
+C:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_2/rtl/template_de1soc/keyboard_audio_controller.sv {1 {vlog -work work -sv -stats=none C:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_2/rtl/template_de1soc/keyboard_audio_controller.sv
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling package keyboard_audio_controller_sv_unit
+-- Compiling module keyboard_audio_controller
+
+Top level modules:
+	keyboard_audio_controller
+
+} {} {}} C:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_2/rtl/template_de1soc/keyboard_audio_controller_tb.sv {1 {vlog -work work -sv -stats=none C:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_2/rtl/template_de1soc/keyboard_audio_controller_tb.sv
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module keyboard_audio_controller_tb
+
+Top level modules:
+	keyboard_audio_controller_tb
+
+} {} {}} C:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_2/rtl/template_de1soc/flash_control.sv {1 {vlog -work work -sv -stats=none C:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_2/rtl/template_de1soc/flash_control.sv
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module flash_control
+
+Top level modules:
+	flash_control
+
+} {} {}} C:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_2/rtl/template_de1soc/flash_control_tb.sv {1 {vlog -work work -sv -stats=none C:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_2/rtl/template_de1soc/flash_control_tb.sv
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module flash_control_tb
+
+Top level modules:
+	flash_control_tb
+
+} {} {}} C:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_2/rtl/template_de1soc/address_calc.sv {1 {vlog -work work -sv -stats=none C:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_2/rtl/template_de1soc/address_calc.sv
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module address_calc
+
+Top level modules:
+	address_calc
+
+} {} {}}

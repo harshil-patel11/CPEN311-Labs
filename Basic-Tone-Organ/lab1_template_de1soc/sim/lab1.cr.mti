@@ -1,0 +1,44 @@
+C:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_1/lab1_template_de1soc/sim/clk_divider_tb.sv {1 {vlog -work work -sv -stats=none C:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_1/lab1_template_de1soc/sim/clk_divider_tb.sv
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module clk_divider_tb
+
+Top level modules:
+	clk_divider_tb
+
+} {} {}} C:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_1/lab1_template_de1soc/rtl/clk_divider.sv {1 {vlog -work work -sv -stats=none C:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_1/lab1_template_de1soc/rtl/clk_divider.sv
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module clk_divider
+
+Top level modules:
+	clk_divider
+
+} {} {}} C:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_1/lab1_template_de1soc/sim/clock_cycle_calc_tb.sv {1 {vlog -work work -sv -stats=none C:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_1/lab1_template_de1soc/sim/clock_cycle_calc_tb.sv
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module clock_cycle_calc_tb
+
+Top level modules:
+	clock_cycle_calc_tb
+
+} {} {}} C:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_1/lab1_template_de1soc/sim/led_control_tb.sv {1 {vlog -work work -sv -stats=none C:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_1/lab1_template_de1soc/sim/led_control_tb.sv
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module led_control_tb
+
+Top level modules:
+	led_control_tb
+
+} {} {}} C:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_1/lab1_template_de1soc/rtl/led_control.sv {1 {vlog -work work -sv -stats=none C:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_1/lab1_template_de1soc/rtl/led_control.sv
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module led_control
+
+Top level modules:
+	led_control
+
+} {} {}} C:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_1/lab1_template_de1soc/rtl/clock_cycle_calc.sv {1 {vlog -work work -sv -stats=none C:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_1/lab1_template_de1soc/rtl/clock_cycle_calc.sv
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling package clock_cycle_calc_sv_unit
+-- Compiling module clock_cycle_calc
+
+Top level modules:
+	clock_cycle_calc
+
+} {} {}}

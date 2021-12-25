@@ -1,0 +1,193 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/altera/14.1
+vclk_divider
+Z0 DXx6 sv_std 3 std 0 22 <EOTafDcUY:cQeO^ICn]m3
+Z1 !s110 1632603250
+!i10b 1
+!s100 n24A2R;8EE``Wo95@JRce1
+IB@:OCMLz[[^`gV7g3gB1d1
+Z2 V`JN@9S9cnhjKRR_L]QIcM3
+!s105 clk_divider_sv_unit
+S1
+Z3 dC:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_1/lab1_template_de1soc/sim
+w1632600781
+8C:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_1/lab1_template_de1soc/rtl/clk_divider.sv
+FC:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_1/lab1_template_de1soc/rtl/clk_divider.sv
+L0 9
+Z4 OV;L;10.3c;59
+r1
+!s85 0
+31
+!s108 1632603250.424000
+!s107 C:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_1/lab1_template_de1soc/rtl/clk_divider.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_1/lab1_template_de1soc/rtl/clk_divider.sv|
+!i113 1
+Z5 o-work work -sv
+vclk_divider_tb
+R0
+R1
+!i10b 1
+!s100 Lih7Io<3nF3Hgej9ZF=jJ2
+Io2IHG52jcbU;KFk7ZnQQm1
+R2
+!s105 clk_divider_tb_sv_unit
+S1
+R3
+w1632429523
+8C:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_1/lab1_template_de1soc/sim/clk_divider_tb.sv
+FC:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_1/lab1_template_de1soc/sim/clk_divider_tb.sv
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1632603250.173000
+!s107 C:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_1/lab1_template_de1soc/sim/clk_divider_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_1/lab1_template_de1soc/sim/clk_divider_tb.sv|
+!i113 1
+R5
+vclock_cycle_calc
+R0
+DXx4 work 24 clock_cycle_calc_sv_unit 0 22 ]2^0NO^RO]OoQYS==e;nk0
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 @O7`I[^0dgIch@bM_1[YM0
+Id3c<VR]PO:n=3_YY7TJ?U3
+!s105 clock_cycle_calc_sv_unit
+S1
+R3
+Z6 w1632463422
+Z7 8C:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_1/lab1_template_de1soc/rtl/clock_cycle_calc.sv
+Z8 FC:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_1/lab1_template_de1soc/rtl/clock_cycle_calc.sv
+L0 13
+R4
+Z9 !s108 1632603250.502000
+Z10 !s107 C:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_1/lab1_template_de1soc/rtl/clock_cycle_calc.sv|
+Z11 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_1/lab1_template_de1soc/rtl/clock_cycle_calc.sv|
+!i113 1
+R5
+Xclock_cycle_calc_sv_unit
+R0
+V]2^0NO^RO]OoQYS==e;nk0
+r1
+!s85 0
+31
+!i10b 1
+!s100 E;0UzZJh`In>bkGV>1U6b1
+I]2^0NO^RO]OoQYS==e;nk0
+!i103 1
+S1
+R3
+R6
+R7
+R8
+L0 2
+R4
+R9
+R10
+R11
+!i113 1
+R5
+vclock_cycle_calc_tb
+R0
+R1
+!i10b 1
+!s100 GORmL8YeKGdV3n@ADC[<80
+Idn5PS^W4N5i@YmIH>?4lz1
+R2
+Z12 !s105 clock_cycle_calc_tb_sv_unit
+S1
+R3
+w1632602891
+Z13 8C:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_1/lab1_template_de1soc/sim/clock_cycle_calc_tb.sv
+Z14 FC:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_1/lab1_template_de1soc/sim/clock_cycle_calc_tb.sv
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1632603250.251000
+Z15 !s107 C:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_1/lab1_template_de1soc/sim/clock_cycle_calc_tb.sv|
+Z16 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_1/lab1_template_de1soc/sim/clock_cycle_calc_tb.sv|
+!i113 1
+R5
+vclock_cycle_tb
+R0
+!s110 1632602731
+!i10b 1
+!s100 fcAXOGRKf;^jJ9NIdGHo02
+IiMNzHcmSo8e>[`61QkO1=2
+R2
+R12
+S1
+R3
+w1632430019
+R13
+R14
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1632602731.583000
+R15
+R16
+!i113 1
+R5
+vled_control
+R0
+R1
+!i10b 1
+!s100 b@=njCMaCI6<KC@ZCcVhR0
+Ih?9zZE5?O3Jl[m8@AMTFM2
+R2
+!s105 led_control_sv_unit
+S1
+R3
+w1632426543
+8C:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_1/lab1_template_de1soc/rtl/led_control.sv
+FC:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_1/lab1_template_de1soc/rtl/led_control.sv
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1632603250.344000
+!s107 C:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_1/lab1_template_de1soc/rtl/led_control.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_1/lab1_template_de1soc/rtl/led_control.sv|
+!i113 1
+R5
+vled_control_tb
+R0
+R1
+!i10b 1
+!s100 [@BzN^b1NOQ6GN[`8_L]Z3
+IhM5^iHOU6ilH`ggcS:l`50
+R2
+!s105 led_control_tb_sv_unit
+S1
+R3
+w1632431233
+8C:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_1/lab1_template_de1soc/sim/led_control_tb.sv
+FC:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_1/lab1_template_de1soc/sim/led_control_tb.sv
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1632603250.079000
+!s107 C:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_1/lab1_template_de1soc/sim/led_control_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/harshil/cpen311/harshil_rajesh_patel_35437326_Lab_1/lab1_template_de1soc/sim/led_control_tb.sv|
+!i113 1
+R5
